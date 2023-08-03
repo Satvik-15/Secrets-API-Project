@@ -7,3 +7,5 @@ Lisper is a simple web application that displays a random secret from the Secret
 Lisper uses the Express framework to create a simple web server. The Express framework makes it easy to create web applications in JavaScript.
 
 Lisper also uses the Axios library to make requests to the Secrets API. The Axios library makes it easy to make HTTP requests in JavaScript.
+
+![image](https://github.com/Satvik-15/Secrets-API-Project/assets/77858316/0d69758a-f929-48db-92dc-3ee482e836f4)
