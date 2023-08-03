@@ -9,3 +9,7 @@ Lisper uses the Express framework to create a simple web server. The Express fra
 Lisper also uses the Axios library to make requests to the Secrets API. The Axios library makes it easy to make HTTP requests in JavaScript.
 
 ![image](https://github.com/Satvik-15/Secrets-API-Project/assets/77858316/0d69758a-f929-48db-92dc-3ee482e836f4)
+
+Without CSS properties:
+
+![image](https://github.com/Satvik-15/Secrets-API-Project/assets/77858316/5e4f3854-6902-4c68-9d65-b0b19d3b59cd)
